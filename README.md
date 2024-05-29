@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Devon Truman there 👋
+
+🔭 I’m currently working on
+- A Personal MLB Statistics Analyzer App
+
+🌱 I’m currently learning
+- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+- ![Haskell](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white) 
 
 <!--
 **dtruman/dtruman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
